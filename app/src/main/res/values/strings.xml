@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EditTextButtonOnClick</string>
+    <string name="edit_text_hint">Введите текст</string>
+    <string name="result_view_hint">Результат</string>
+    <string name="symbols_count_view_basic_text">Количество символов: 0</string>
+    <string name="symbols_count_view_text">Количество символов: %1$s</string>
+    <string name="convert_button_text">Преобразовать</string>
+</resources>
